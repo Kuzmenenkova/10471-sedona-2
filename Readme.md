@@ -2,6 +2,7 @@
 
 * Студент: [Александра Кузьмененкова](https://up.htmlacademy.ru/htmlcss-individual/2/user/10471).
 * Наставник: [Неопознаный енот]().
+* Сайт: [Седона html-1](https://kuzmenenkova.github.io/10471-sedona-2/).
 
 ---
 
